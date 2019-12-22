@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    
+    "pages/footer",
+    "pages/footer/footer"
+  ],
+  "window": {
+    "backgroundColor": "#DEB887",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#DEB887",
+    "navigationBarTitleText": "日行一扫 让座一善",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

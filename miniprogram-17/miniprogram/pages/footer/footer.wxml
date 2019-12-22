@@ -1,0 +1,4 @@
+<view class="content">
+    <!--pics文件夹下的background.jpg文件-->
+    <image class='background' src="../../images/1234.png" mode="aspectFill"></image>
+</view>

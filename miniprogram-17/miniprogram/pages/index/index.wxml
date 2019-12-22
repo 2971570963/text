@@ -1,0 +1,14 @@
+<view class="content">
+    <!--pics文件夹下的background.jpg文件-->
+    <image class='background' src="../../images/123.jpg" mode="aspectFill"></image>
+</view>
+<view class="header">请输入您的座位号</view>
+
+<view class="input-wrap">
+ <input bindinput="input1" class="input"></input>
+ </view>
+ <view class="baoming">
+ <button type="primary" formType="submit" bindtap="baoming">报名</button>
+ </view>
+
+
